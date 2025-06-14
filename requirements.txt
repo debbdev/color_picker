@@ -1,0 +1,19 @@
+# Enhanced Color Picker Requirements
+# Install with: pip install -r requirements.txt
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Screen capture and automation
+pyautogui>=0.9.54
+
+# Color manipulation and conversion
+colour>=0.1.5
+
+# Colored terminal output
+colorama>=0.4.6
+
+# Additional dependencies (automatically installed with above packages)
+# tkinter - Built into Python
+# Pillow - Installed with pyautogui
+# numpy - Installed with colour
